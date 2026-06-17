@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "letters": ["C", "A", "T", "S"],
+    "gridWords": ["CAT", "SAT", "ACT"],
+    "grid": [
+      { "word": "CAT", "row": 0, "col": 0, "direction": "H" },
+      { "word": "SAT", "row": 1, "col": 0, "direction": "H" },
+      { "word": "ACT", "row": 0, "col": 1, "direction": "V" }
+    ]
+  },
+  {
+    "id": 2,
+    "letters": ["S", "T", "A", "R"],
+    "gridWords": ["STAR", "RATS", "ARTS"],
+    "grid": [
+      { "word": "STAR", "row": 0, "col": 0, "direction": "H" },
+      { "word": "RATS", "row": 0, "col": 0, "direction": "V" },
+      { "word": "ARTS", "row": 1, "col": 0, "direction": "H" }
+    ]
+  },
+  {
+    "id": 3,
+    "letters": ["P", "L", "A", "Y"],
+    "gridWords": ["PLAY", "YALP", "LAY"],
+    "grid": [
+      { "word": "PLAY", "row": 0, "col": 0, "direction": "H" },
+      { "word": "LAY",  "row": 0, "col": 1, "direction": "V" },
+      { "word": "YALP", "row": 2, "col": 0, "direction": "H" }
+    ]
+  },
+  {
+    "id": 4,
+    "letters": ["F", "I", "S", "H"],
+    "gridWords": ["FISH", "FISH", "HIS"],
+    "grid": [
+      { "word": "FISH", "row": 0, "col": 0, "direction": "H" },
+      { "word": "HIS",  "row": 0, "col": 3, "direction": "V" }
+    ]
+  },
+  {
+    "id": 5,
+    "letters": ["M", "O", "N", "E", "Y"],
+    "gridWords": ["MONEY", "YONEM", "ONE"],
+    "grid": [
+      { "word": "MONEY", "row": 0, "col": 0, "direction": "H" },
+      { "word": "ONE",   "row": 0, "col": 1, "direction": "V" }
+    ]
+  },
+  {
+    "id": 6,
+    "letters": ["B", "R", "A", "I", "N"],
+    "gridWords": ["BRAIN", "RAIN", "BAN"],
+    "grid": [
+      { "word": "BRAIN", "row": 0, "col": 0, "direction": "H" },
+      { "word": "RAIN",  "row": 0, "col": 1, "direction": "V" },
+      { "word": "BAN",   "row": 2, "col": 0, "direction": "H" }
+    ]
+  },
+  {
+    "id": 7,
+    "letters": ["C", "L", "O", "U", "D"],
+    "gridWords": ["CLOUD", "LOUD", "COD"],
+    "grid": [
+      { "word": "CLOUD", "row": 0, "col": 0, "direction": "H" },
+      { "word": "LOUD",  "row": 0, "col": 1, "direction": "V" },
+      { "word": "COD",   "row": 3, "col": 0, "direction": "H" }
+    ]
+  },
+  {
+    "id": 8,
+    "letters": ["G", "R", "A", "P", "E"],
+    "gridWords": ["GRAPE", "REAP", "GAP"],
+    "grid": [
+      { "word": "GRAPE", "row": 0, "col": 0, "direction": "H" },
+      { "word": "REAP",  "row": 0, "col": 1, "direction": "V" },
+      { "word": "GAP",   "row": 3, "col": 0, "direction": "H" }
+    ]
+  },
+  {
+    "id": 9,
+    "letters": ["S", "P", "A", "C", "E"],
+    "gridWords": ["SPACE", "PACE", "ACE"],
+    "grid": [
+      { "word": "SPACE", "row": 0, "col": 0, "direction": "H" },
+      { "word": "PACE",  "row": 0, "col": 1, "direction": "V" },
+      { "word": "ACE",   "row": 3, "col": 1, "direction": "H" }
+    ]
+  },
+  {
+    "id": 10,
+    "letters": ["W", "O", "R", "L", "D"],
+    "gridWords": ["WORLD", "LORD", "OWL"],
+    "grid": [
+      { "word": "WORLD", "row": 0, "col": 0, "direction": "H" },
+      { "word": "LORD",  "row": 0, "col": 1, "direction": "V" },
+      { "word": "OWL",   "row": 3, "col": 0, "direction": "H" }
+    ]
+  }
+]
