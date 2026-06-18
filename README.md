@@ -19,10 +19,6 @@ A modern Android word puzzle game built with **Jetpack Compose**. Players swipe 
 - `data/`: Data models and `LevelRepository` for loading game levels.
 - `navigation/`: Navigation graph defining the app's flow.
 
-## Screenshots
-
-*(Add screenshots here)*
-
 ## Getting Started
 
 1. Clone the repository.
@@ -43,6 +39,3 @@ A modern Android word puzzle game built with **Jetpack Compose**. Players swipe 
 You can download the latest preview version of the app here:
 - [Google Drive](https://drive.google.com/drive/folders/1hMLA4_tsNFFVREmMSiVm6MqnqSqLCPT8?usp=sharing)
 
-## License
-
-This project is licensed under the MIT License.
